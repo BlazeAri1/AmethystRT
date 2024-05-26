@@ -2,7 +2,7 @@
 Real-time web protocol written in Node.js
 
 Tasks:
-- [ ] Design a protocol
+- [X] Design a protocol
 - [ ] Make basic packet sending over TCP
 - [ ] Make packet structure
 - [ ] Prepare for the first release
